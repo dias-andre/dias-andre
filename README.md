@@ -1,10 +1,10 @@
 ## Hello!
 
-💻 Back-End Developer
+💻 Back-End Developer & Hobbyist Systems Programmer
 
 🎓 Technical Degree in **Systems Development** at ETEC de Taboão da Serra
 
-🈺 Looking for opportunities! 
+🈺 Open to Work!
 
 
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:diaso.andre@outlook.com)
