@@ -12,7 +12,7 @@ Note: Repositories are private due to academic/institutional policies.
 
 🔥 Ignis Zero | Smart IoT Fire Prevention System
 - `ESP32, C++, PHP and React Native`
-- Real-time fire monitoring and automated emergency alerts.
+- Real-time fire control and automated emergency alerts.
 
 ♻️ Print Experience Technology | Embedded PET Recycling System
 - `ESP32 and C++`
