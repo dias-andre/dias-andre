@@ -1,6 +1,6 @@
 ## Hello!
 
-💻 Back-End Developer & Hobbyist Systems Programmer
+💻 Software Developer!
 
 🎓 Technical Degree in **Systems Development** at ETEC de Taboão da Serra
 
